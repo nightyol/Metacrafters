@@ -18,6 +18,6 @@ Commit and push your changes to your GitHub repository.
 # Contributing
 Contributions to this repository are not accepted as it is for personal assignments. However, if you have suggestions or feedback, feel free to open an issue.
 
-#License
+# License
 This project is licensed under the MIT License. You are free to modify and distribute the code for personal and educational purposes.
 
