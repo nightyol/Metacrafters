@@ -2,10 +2,15 @@
 This repository contains my completed assignments for the MetaCrafters course. Each assignment is organized in its own folder, with the necessary code files and any additional resources.
 
 Table of Contents
+
 Assessment 1: - JS-PROOF - Beginner level
+
 Assessment 2: - ETH PROOF - Beginner Level
+
 Assessment 3: - ETH + AVAX PROOF - Intermediate Level
+
 Assessment 4: - POLY PROOF - Advanced Level
+
 # Getting Started
 To get started with the assignments, follow these steps:
 
